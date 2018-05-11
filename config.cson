@@ -1,0 +1,27 @@
+"*":
+  core:
+    disabledPackages: [
+      "bracket-matcher"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    tabType: "soft"
+  "exception-reporting":
+    userId: "5470145a-7db1-4bc0-aaef-06837c3aa764"
+  "git-blame":
+    columnWidth: 267
+  "linter-ui-default": {}
+  "prettier-atom":
+    formatOnSaveOptions:
+      enabled: true
+    prettierOptions:
+      arrowParens: "always"
+  "vim-mode-plus":
+    ignoreCaseForSearch: true
+    useClipboardAsDefaultRegister: false
+  welcome:
+    showOnStartup: false

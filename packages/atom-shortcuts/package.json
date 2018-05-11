@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/nb/cgnwzpwn4p95k62n8bygfpjc0000gn/T/d-118226-87530-wynlbu.5c51nn4s4i/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/nb/cgnwzpwn4p95k62n8bygfpjc0000gn/T/d-118226-87530-wynlbu.5c51nn4s4i/package.tgz",
+        "spec": "/private/var/folders/nb/cgnwzpwn4p95k62n8bygfpjc0000gn/T/d-118226-87530-wynlbu.5c51nn4s4i/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/nb/cgnwzpwn4p95k62n8bygfpjc0000gn/T/apm-install-dir-118226-87530-1tgfq1i.11x88e61or"
+    ]
+  ],
+  "_from": "../d-118226-87530-wynlbu.5c51nn4s4i/package.tgz",
+  "_id": "atom-shortcuts@0.0.2",
+  "_inCache": true,
+  "_location": "/atom-shortcuts",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/nb/cgnwzpwn4p95k62n8bygfpjc0000gn/T/d-118226-87530-wynlbu.5c51nn4s4i/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/nb/cgnwzpwn4p95k62n8bygfpjc0000gn/T/d-118226-87530-wynlbu.5c51nn4s4i/package.tgz",
+    "spec": "/private/var/folders/nb/cgnwzpwn4p95k62n8bygfpjc0000gn/T/d-118226-87530-wynlbu.5c51nn4s4i/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118226-87530-wynlbu.5c51nn4s4i/package.tgz",
+  "_shasum": "4b48626c13bf02dc9e460f85552389f7250c1b91",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/nb/cgnwzpwn4p95k62n8bygfpjc0000gn/T/d-118226-87530-wynlbu.5c51nn4s4i/package.tgz",
+  "_where": "/private/var/folders/nb/cgnwzpwn4p95k62n8bygfpjc0000gn/T/apm-install-dir-118226-87530-1tgfq1i.11x88e61or",
+  "bugs": {
+    "url": "https://github.com/olegberman/atom-shortcuts/issues"
+  },
+  "dependencies": {},
+  "description": "Helps you learn Atom's shortcuts, hit ctrl + ` to see a shortcut cheatsheet.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/olegberman/atom-shortcuts#readme",
+  "keywords": [
+    "shortcuts",
+    "shortcut",
+    "cheatsheet",
+    "productivity",
+    "atom-shortcuts",
+    "hotkey"
+  ],
+  "license": "MIT",
+  "main": "./lib/atom-shortcuts",
+  "name": "atom-shortcuts",
+  "optionalDependencies": {},
+  "readme": "# atom-shortcuts package\n\nI love shortcuts. I love to be productive. Shortcuts tend to increase developer's productivity by 146%.  To learn Atom's shortcuts I've found [this](http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf) cheatsheet and I liked it for the most part, except I had to toggle between Atom and Preview App to go and check for a shortcut needed for a certain action. That's why I wrote this extension. Simply hit **ctrl + `** (`ctrl + backtick`) and you will get a cheatsheet on your screen immediately.\n\nRun ```apm install atom-shortcuts``` to install the package.\n\n![atom-shortcuts](https://cloud.githubusercontent.com/assets/6267340/9027127/72425560-3916-11e5-9c24-14ac297bc6ac.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegberman/atom-shortcuts.git"
+  },
+  "version": "0.0.2"
+}
